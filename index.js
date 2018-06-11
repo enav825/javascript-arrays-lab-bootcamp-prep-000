@@ -27,7 +27,10 @@ function appendKitten(name) {
   return arr;
 }
 
-function 
+function prependKitten(name) {
+  
+  
+}
 
 
 
