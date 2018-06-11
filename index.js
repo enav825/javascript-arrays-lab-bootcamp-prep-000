@@ -29,7 +29,7 @@ function appendKitten(name) {
 
 function prependKitten(name) {
   
-  
+  var arr = [...]
 }
 
 
