@@ -1,4 +1,4 @@
 const app = "I don't do much.";
 
 var destructivelyAppendKitten = [];
-destructivelyAppendKitten.push(kitten);
+destructivelyAppendKitten.push('Garfield');
